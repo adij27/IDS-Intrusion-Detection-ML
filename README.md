@@ -1,7 +1,7 @@
 # 🛡️ IDS Project - Intrusion Detection System Analysis [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **Academic Group Project** — CS519 Machine Learning, New Mexico State University  
-> **Team:** Aditya Jadhav · Nikshith Kilaru · Dinesh Kumar Gowd Jadapalli · Siva Sai Kumar Boina
+> **Team:** Aditya Jadhav · Nikshith Kilaru · Dinesh Kumar Gowd Jadapalli · Siva Sai Kumar Boina · Md Omar Faruque
 
 ## 📌 Project Overview
 Comprehensive machine learning framework for intrusion detection system analysis featuring:
